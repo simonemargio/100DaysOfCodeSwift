@@ -12,3 +12,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [006](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/006)  | Git and GitHub configuration for Xcode |
 | [007](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/007)  | Design a dice app |
 | [008](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/008)  | Swift variable, arrays and IBOutlet IBAction |
+| [009](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/009)  | Random dice faces and ultimate app |
