@@ -3,7 +3,7 @@
 &nbsp;
 
 ### Today's topic 🎯
-andom dice faces and finish app.
+Random dice faces and ultimate app
 
 &nbsp;
 
