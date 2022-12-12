@@ -14,3 +14,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [008](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/008)  | Swift variable, arrays and IBOutlet IBAction |
 | [009](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/009)  | Random dice faces and ultimate app |
 | [010](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/010)  | Constants, range operator, and randomization |
+| [011](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/011)  | 8 ball app challenge |
