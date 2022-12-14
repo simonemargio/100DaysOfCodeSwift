@@ -16,3 +16,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [010](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/010)  | Constants, range operator, and randomization |
 | [011](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/011)  | 8 ball app challenge |
 | [012](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/012)  | Auto layout and responsive UIs |
+| [013](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/013)  | Calculator auto layout |
