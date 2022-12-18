@@ -20,3 +20,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [014](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/014)  | Functions and scope |
 | [015](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/015)  | Xylophone project |
 | [016](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/016)  | If-else control flow and switch statements |
+| [017](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/017)  | Dictionaries and unwrapping optionals |
