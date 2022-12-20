@@ -22,3 +22,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [016](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/016)  | If-else control flow and switch statements |
 | [017](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/017)  | Dictionaries and unwrapping optionals |
 | [018](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/018)  | Egg timer project |
+| [019](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/019)  | 2-Dimensional array, structures with methods and properties |
