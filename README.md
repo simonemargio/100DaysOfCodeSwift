@@ -26,3 +26,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [020](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/020)  | Quizzler app project |
 | [021](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/021)  | Design patterns and functions with outputs and returns |
 | [022](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/022)  | Immutability and mutating functions |
+| [023](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/023)  | Redesign quizzler app with MVC design pattern |
