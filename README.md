@@ -28,3 +28,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [022](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/022)  | Immutability and mutating functions |
 | [023](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/023)  | Redesign quizzler app with MVC design pattern |
 | [024](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/024)  | Quizzler app with multiple choices |
+| [025](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/025)  | Creating a “choose your own adventure” game |
