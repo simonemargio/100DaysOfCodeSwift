@@ -31,3 +31,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [025](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/025)  | Creating a “choose your own adventure” game |
 | [026](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/026)  | UISlider to calculate the BMI |
 | [027](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/027)  | Destini App |
+| [028](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/028)  | Classes and inheritance |
