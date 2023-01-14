@@ -35,3 +35,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [029](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/029)  | Custom UIViewController class, create a UI programmatically and pass data between ViewControllers |
 | [030](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/030)  | Segues and navigation for multi-screen apps |
 | [031](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/031)  | Optional binding, chaining and the null coalescing operator |
+| [032](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/032)  | Finish the BMI app |
