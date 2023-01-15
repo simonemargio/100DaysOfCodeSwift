@@ -36,3 +36,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [030](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/030)  | Segues and navigation for multi-screen apps |
 | [031](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/031)  | Optional binding, chaining and the null coalescing operator |
 | [032](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/032)  | Finish the BMI app |
+| [033](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/033)  | Tip calculator and bill split app |
