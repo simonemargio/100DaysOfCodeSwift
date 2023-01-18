@@ -38,3 +38,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [032](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/032)  | Finish the BMI app |
 | [033](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/033)  | Tip calculator and bill split app |
 | [034](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/034)  | Protocols and delegates |
+| [035](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/035)  | Dark mode and working with vector assets |
