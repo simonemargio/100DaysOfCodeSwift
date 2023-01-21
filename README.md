@@ -40,3 +40,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [034](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/034)  | Protocols and delegates |
 | [035](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/035)  | Dark mode and working with vector assets |
 | [036](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/036)  | Learn how to use UITextField with protocols and delegates |
+| [037](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/037)  | Swift closures |
