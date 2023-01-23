@@ -42,3 +42,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [036](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/036)  | Learn how to use UITextField with protocols and delegates |
 | [037](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/037)  | Swift closures |
 | [038](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/038)  | Use URLSession and JSON decoding |
+| [039](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/039)  | Typealias with protocols and delegate |
