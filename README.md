@@ -48,3 +48,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [042](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/042)  | Using extensions to refactor, CoreLocation, and get location data |
 | [043](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/043)  | Bitcoin price ticker |
 | [044](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/044)  | Loops, loops, loops, loops for everyone |
+| [045](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/045)  | 3rd party libraries, CocoaPods and adding Firebase to the xCode project |
