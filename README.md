@@ -49,3 +49,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [043](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/043)  | Bitcoin price ticker |
 | [044](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/044)  | Loops, loops, loops, loops for everyone |
 | [045](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/045)  | 3rd party libraries, CocoaPods and adding Firebase to the xCode project |
+| [046](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/046)  | Firebase registers a new user, login and logout |
