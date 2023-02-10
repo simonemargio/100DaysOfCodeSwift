@@ -53,3 +53,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [047](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/047)  | Constants, UITableView, and customizing cells using a .xib file |
 | [048](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/048)  | Type casting with operator as, as?, as!, is, any |
 | [049](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/049)  | Firestore set up, saving and retrieving data |
+| [050](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/050)  | Sort data, listen the updates on Firestore and use the Swift package manager |
