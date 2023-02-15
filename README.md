@@ -57,3 +57,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [051](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/051)  | ViewController lifecycle |
 | [052](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/052)  | Command line and terminal |
 | [053](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/053)  | Introduction to SwiftUI and rebuilding the app on day 4 |
+| [054](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/054)  | SwiftUI: business card |
