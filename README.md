@@ -59,3 +59,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [053](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/053)  | Introduction to SwiftUI and rebuilding the app on day 4 |
 | [054](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/054)  | SwiftUI: business card |
 | [055](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/055)  | SwiftUI: design a layout using spacer and subviews |
+| [056](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/056)  | SwiftUI: feature building and state management |
