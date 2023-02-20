@@ -61,3 +61,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [055](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/055)  | SwiftUI: design a layout using spacer and subviews |
 | [056](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/056)  | SwiftUI: feature building and state management |
 | [057](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/057)  | SwiftUI: list, Identifiable protocol, networking and Observer design pattern |
+| [058](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/058)  | SwiftUI: UIkit components |
