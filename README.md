@@ -63,3 +63,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [057](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/057)  | SwiftUI: list, Identifiable protocol, networking and Observer design pattern |
 | [058](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/058)  | SwiftUI: UIkit components |
 | [059](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/059)  | SwiftUI: quick overview of Mac catalyst and running iOS app on Mac |
+| [060](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/060)  | Git, version control, and using Xcode for source control |
