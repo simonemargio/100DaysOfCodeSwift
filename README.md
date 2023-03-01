@@ -68,3 +68,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [062](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/062)  | Local data storage with UserDefaults, singleton object and creating a custom data model |
 | [063](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/063)  | The concept of iOS sandboxing, data encoding and decoding with NSCoder |
 | [064](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/064)  | SQLite, configure Core Data and use CRUD operations |
+| [065](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/065)  | Relationship graph in Core Data and lists of lists |
