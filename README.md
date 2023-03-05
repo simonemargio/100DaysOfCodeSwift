@@ -71,3 +71,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [065](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/065)  | Relationship graph in Core Data and lists of lists |
 | [066](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/066)  | Introduction to Realm and use CRUD operations |
 | [067](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/067)  | Swipeable cells, inheriting and updating UI |
+| [068](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/068)  | Computed and Observed properties |
