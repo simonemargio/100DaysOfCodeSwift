@@ -73,3 +73,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [067](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/067)  | Swipeable cells, inheriting and updating UI |
 | [068](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/068)  | Computed and Observed properties |
 | [069](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/069)  | Swift structs vs classes |
+| [070](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/070)  | Calculator project using: getter and setters, access levels, and computed properties |
