@@ -74,3 +74,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [068](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/068)  | Computed and Observed properties |
 | [069](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/069)  | Swift structs vs classes |
 | [070](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/070)  | Calculator project using: getter and setters, access levels, and computed properties |
+| [071](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/071)  | Swift tuples and transform the calculator project from classes to structs |
