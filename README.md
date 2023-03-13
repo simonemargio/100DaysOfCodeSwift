@@ -77,3 +77,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [071](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/071)  | Swift tuples and transform the calculator project from classes to structs |
 | [072](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/072)  | Introduction to machine learning and the difference between supervised and unsupervised learning |
 | [073](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/073)  | CoreML and reinforcement learning |
+| [074](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/074)  | Import image recognition model and enable camera functionality |
