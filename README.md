@@ -81,3 +81,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [075](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/075)  | Get image recognition results from the ML model |
 | [076](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/076)  | ML, The hot dog-identifying app from HBO's Silicon Valley |
 | [077](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/077)  | Introduction to CreateML |
+| [078](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/078)  | Build your own machine learning model |
