@@ -85,3 +85,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [079](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/079)  | Using createML for natural language processing |
 | [080](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/080)  | Introduction to ARKit, configure the project for AR and create a 3D object |
 | [081](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/081)  | Introduction to app design and why design is important for an app |
+| [082](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/082)  | Color theory and how to combine colors to create color palettes |
