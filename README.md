@@ -87,3 +87,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [081](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/081)  | Introduction to app design and why design is important for an app |
 | [082](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/082)  | Color theory and how to combine colors to create color palettes |
 | [083](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/083)  | Introduction to typography, the family of Serif types |
+| [084](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/084)  | Combine fonts |
