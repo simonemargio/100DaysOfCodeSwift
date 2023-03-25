@@ -88,3 +88,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [082](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/082)  | Color theory and how to combine colors to create color palettes |
 | [083](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/083)  | Introduction to typography, the family of Serif types |
 | [084](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/084)  | Combine fonts |
+| [085](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/085)  | Approach to UI Design and the importance of Alignment |
