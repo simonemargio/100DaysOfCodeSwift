@@ -90,3 +90,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [084](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/084)  | Combine fonts |
 | [085](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/085)  | Approach to UI Design and the importance of Alignment |
 | [086](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/086)  | Usability |
+| [087](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/087)  | Simplicity and consistency |
