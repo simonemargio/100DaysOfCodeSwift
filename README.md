@@ -91,4 +91,5 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [085](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/085)  | Approach to UI Design and the importance of Alignment |
 | [086](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/086)  | Usability |
 | [087](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/087)  | Simplicity and consistency |
-| [088](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/088)  | Review |
+| [088](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/088)  | Flow diagrams and wireframes |
+| [089](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/089)  | Review |
