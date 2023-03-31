@@ -94,3 +94,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [088](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/088)  | Flow diagrams and wireframes |
 | [089](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/089)  | Review |
 | [090](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/090)  | Idea validation |
+| [091](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/091)  | The Simplest Way of Validating Your Idea |
