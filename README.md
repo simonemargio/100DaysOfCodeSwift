@@ -99,3 +99,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [093](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/093)  | The Landing page validation method |
 | [094](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/094)  | Creating a Minimum Viable Product |
 | [095](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/095)  | Use crowdfunding to validate and finance your idea |
+| [096](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/096)  | How to monetize your App |
