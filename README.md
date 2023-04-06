@@ -100,3 +100,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [094](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/094)  | Creating a Minimum Viable Product |
 | [095](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/095)  | Use crowdfunding to validate and finance your idea |
 | [096](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/096)  | How to monetize your App |
+| [097](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/097)  | When to use in-app ads |
