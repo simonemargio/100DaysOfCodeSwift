@@ -102,3 +102,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [096](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/096)  | How to monetize your App |
 | [097](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/097)  | When to use in-app ads |
 | [098](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/098)  | How to get an App icon designed without breaking the bank |
+| [099](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/099)  | Only on the App Store |
