@@ -103,3 +103,4 @@ Swift exercises and examples carried out during the #100DaysOfCode
 | [097](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/097)  | When to use in-app ads |
 | [098](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/098)  | How to get an App icon designed without breaking the bank |
 | [099](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/099)  | Only on the App Store |
+| [100](https://github.com/simonemargio/100DaysOfCode-Swift/tree/main/100)  | Your first 1000 customers |
